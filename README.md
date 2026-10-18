@@ -54,4 +54,5 @@ The system successfully performs the following operations:
 The project provides practical knowledge of linked lists, pointers, dynamic memory allocation, insertion, deletion, searching, and traversal operations in C++. It also demonstrates how data structures can be used to solve real-world problems. 
 Thus, the project achieves its main objective of managing shopping cart products effectively and provides a foundation for developing advanced shopping applications with additional features such as billing, total price calculation, and quantity updates. 
 
- 
+   
+    
