@@ -25,7 +25,7 @@ A linked list consists of nodes, where each node stores product information such
 When a new product is added, a new node is created and linked to the existing list. When a product is removed, its node is deleted, and the links are adjusted. The searching operation helps locate a particular product using its ID or name. The display operation traverses the linked list and shows all products available in the cart. 
 Thus, this project demonstrates the practical application of linked lists and helps in understanding dynamic memory allocation, insertion, deletion, searching, and traversal operations in C++.
 
-5.Algorithm: 
+5.Algorithm:
 Step 1: Start the program. 
 Step 2: Initialize an empty linked list to store product details. 
 Step 3: Display the menu with the following operations: 
