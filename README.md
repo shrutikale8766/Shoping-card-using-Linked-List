@@ -26,7 +26,6 @@ When a new product is added, a new node is created and linked to the existing li
 Thus, this project demonstrates the practical application of linked lists and helps in understanding dynamic memory allocation, insertion, deletion, searching, and traversal operations in C++.
 
 5.Algorithm:
-
 Step 1: Start the program. 
 Step 2: Initialize an empty linked list to store product details. 
 Step 3: Display the menu with the following operations: 
