@@ -25,22 +25,6 @@ A linked list consists of nodes, where each node stores product information such
 When a new product is added, a new node is created and linked to the existing list. When a product is removed, its node is deleted, and the links are adjusted. The searching operation helps locate a particular product using its ID or name. The display operation traverses the linked list and shows all products available in the cart. 
 Thus, this project demonstrates the practical application of linked lists and helps in understanding dynamic memory allocation, insertion, deletion, searching, and traversal operations in C++.
 
-5.Algorithm:
-Step 1: Start the program. 
-Step 2: Initialize an empty linked list to store product details. 
-Step 3: Display the menu with the following operations: 
-•	Add Product 
-•	Remove Product 
-•	Search Product 
-•	Display Cart 
-•	Exit 
-Step 4: Accept the user's choice. 
-Step 5: If the user selects Add Product, enter the product ID, name, price, and quantity, and insert a new node into the linked list. 
-Step 6: If the user selects Remove Product, enter the product ID, search for the product, and delete its node if found. 
-Step 7: If the user selects Search Product, enter the product ID and display the product details if found. 
-Step 8: If the user selects Display Cart, traverse the linked list and display all products. 
-Step 9: Repeat Steps 3–8 until the user selects Exit. 
-Step 10: Stop the program.
 
 6.	Result: 
 The Shopping Cart Management System using Linked List was successfully developed using C++. The system provides a menu-driven interface that allows users to perform different shopping cart operations easily. 
