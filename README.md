@@ -8,7 +8,6 @@ The system provides operations to add new products to the cart, remove existing 
 The main purpose of this project is to demonstrate the practical application of Linked List operations in a real-world shopping scenario and to understand how dynamic data structures can be used to manage changing data efficiently.
 
 3. Objectives:  
-
 -To Develop a Shopping Cart Management System 
 The main objective of this project is to develop a simple and efficient Shopping Cart Management System using the C++ programming         language. The system helps users manage products by performing various operations such as adding, removing, searching, and displaying products in the shopping cart. 
 -To Implement Linked List Data Structure 
